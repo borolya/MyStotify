@@ -7,7 +7,7 @@ Music recommender system. Features of MySpotify:
 - **People Who Listen to This Track Also Listen To:** 10 recommendations related to each track. Based on collaborative filtering.
 
 ## Dataset
-The dataset can be found in [data.zip](). Please unzip it before running any program. The data is part of the [Million Songs Dataset (MSD)](http://millionsongdataset.com). The following components were used:
+The dataset can be found by link in `attachments.txt`. You will get data.zip file. Please unzip it before running any program. The data is part of the [Million Songs Dataset (MSD)](http://millionsongdataset.com). The following components were used:
 
 - **Mapping Between Track IDs and Song IDs:** `p02_unique_tracks.txt`
   - A list of unique tracks with track_id, song_id, artist, and title. 1,000,000 tracks were used.
